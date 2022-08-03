@@ -5,7 +5,11 @@ O objetivo desse trabalho é extrair dados de imóveis postados no site www.dfim
 Informações da base de dados:
 
 preco - Preço do Imóvel (R$)
+
 area - Área total do Imóvel (m)
+
 tipo - Tipo do Imóvel
+
 local - Localização real do Imóvel
+
 quartos - Quantidade de quartos do Imóvel
